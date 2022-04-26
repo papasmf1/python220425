@@ -1,7 +1,6 @@
 # web2.py 
 import urllib.request
 from bs4 import BeautifulSoup
-
 #파일에 쓰기(write text)
 f = open("c:/work/webtoon.txt", "wt", encoding="utf-8")
 #규칙이 있는 숫자의 열(수열)을 생성하는 코드 
